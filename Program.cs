@@ -15,6 +15,7 @@ for (int i = 0; i < inputCheck.Length; i++)
     else {  flagtwo = 1;  }
 } //check creation
 
+Console.WriteLine("---");
 
 if (inputCheck.Length <= 8 && flagtwo==0)
 {
